@@ -45,3 +45,6 @@ Deep Learning (optional – LSTM, NN)
 ```
 pip install tensorflow
 ```
+
+ ### Disclaimer :
+For educational and research purposes only.
